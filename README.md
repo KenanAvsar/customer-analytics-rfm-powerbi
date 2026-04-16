@@ -1,5 +1,9 @@
 # 📊 Customer Analytics Dashboard | RFM Segmentation (Power BI)
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Status](https://img.shields.io/badge/Project-Completed-green)
+
 This project focuses on customer behavior analysis using Power BI and RFM segmentation.
 
 ---
