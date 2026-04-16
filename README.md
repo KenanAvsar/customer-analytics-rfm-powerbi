@@ -18,7 +18,9 @@ The dashboard provides actionable insights for business decision-making, custome
 
 ## 📊 Dashboard Preview
 
-### 🔹 General Overview
+### 🔹 General Dashboard Overview
+
+This dashboard provides a high-level summary of total revenue, customer count, transaction volume, and average order value.
 
 ![Overview](images/customer_analysis_overview.png)
 
@@ -89,3 +91,7 @@ Online Retail Dataset (public dataset)
 ---
 
 👤 Developed by **Kenan Avşar**
+
+---
+
+⭐ If you found this project useful, feel free to give it a star!
