@@ -1,4 +1,4 @@
-# 📊 Customer Analytics Dashboard (RFM Analysis)
+# 📊 Customer Analytics Dashboard | RFM Segmentation (Power BI)
 
 This project focuses on customer behavior analysis using Power BI and RFM segmentation.
 
